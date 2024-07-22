@@ -1,0 +1,7 @@
+body{color: palevioletred;}
+#score{font-size: 25px; margin-left: 10px; float: left;}
+#timer{font-size: 25px; float: right; margin-right: 10px;}
+#drawSketch{color: black;}
+h1{
+    color:red ;
+}
